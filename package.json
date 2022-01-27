@@ -66,10 +66,10 @@
     "@reason-native/rely": "^3.2.1"
   },
   "resolutions": {
-    "@esy-ocaml/reason": "EduardoRFS/reason:reason.json#35aa4df3de0daa60bdc1133dcf97855decac48f7",
     "ocaml": "danvonk/ocaml:package.json#f6cf31a43c2b4c8ca3990c0f750c49e6210bea20",
     "@opam/ocamlfind": "1.9.1",
-    "esy-m4": "danvonk/esy-m4:package.json#13a9ab4ab997a6370eabce34d58f48f8d481033b"
+    "esy-m4": "danvonk/esy-m4:package.json#13a9ab4ab997a6370eabce34d58f48f8d481033b",
+    "@opam/printbox": "0.4"
   },
   "devDependencies": {
     "ocaml": "4.12.x",
